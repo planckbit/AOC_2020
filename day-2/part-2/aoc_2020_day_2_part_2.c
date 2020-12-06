@@ -20,10 +20,6 @@ int occurrCharCount = 0;
 int validPasswordCount = 0;
 int inValidPasswordCount = 0;
 
-//int occurrCount = 0;
-//int validCount = 0;
-//int badCount = 0;
-
 //Used for keeping track of invalid total count positions 
 int validCountPosition = 0;
 int invalidCountPosition = 0;
